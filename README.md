@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Edwin Ledezma** <img src="https://avatars.githubusercontent.com/u/115831760?s=400&u=1936b4231c2ada11e71ce4f8c1fa47498e747a48&v=4" width="400" align="right"/>
+- :credit_card: My full name is **Edwin Ledezma** <img src="" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
