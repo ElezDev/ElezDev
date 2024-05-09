@@ -12,7 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ElezDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<a href="https://app.daily.dev/elezdev"><img src="https://api.daily.dev/devcards/v2/Hdg4NPlBfSX0ItlybvjqM.png?r=lk9&type=default" width="356" alt="edwin's Dev Card"/></a>
-
+<a href="https://app.daily.dev/elezdev"><img src="https://api.daily.dev/devcards/v2/Hdg4NPlBfSX0ItlybvjqM.png?type=default&r=1s0" width="356" alt="edwin's Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
