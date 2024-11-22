@@ -1,3 +1,5 @@
+👋 Hi there! I'm ElezDev, a full-stack developer passionate about technology and software development. With experience in modern frontend and backend technologies, I focus on building robust, scalable, and user-centered applications.
+
 🚀 Core Skills:
 Frontend: Angular, Flutter, HTML5.
 Backend: Laravel, Java, Kotlin.
