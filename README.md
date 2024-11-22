@@ -1,10 +1,4 @@
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@elezdev1.0) 
-👋 Hi there! I'm ElezDev, a full-stack developer passionate about technology and software development. With experience in modern frontend and backend technologies, I focus on building robust, scalable, and user-centered applications.
-
 🚀 Core Skills:
-
 Frontend: Angular, Flutter, HTML5.
 Backend: Laravel, Java, Kotlin.
 Databases: PostgreSQL, MySQL, MariaDB.
