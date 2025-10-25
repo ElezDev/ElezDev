@@ -27,7 +27,6 @@ I am committed to continuous improvement and always looking for exciting challen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElezDev&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ElezDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="https://app.daily.dev/elezdev"><img src="https://api.daily.dev/devcards/v2/Hdg4NPlBfSX0ItlybvjqM.png?type=default&r=1s0" width="356" alt="edwin's Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
